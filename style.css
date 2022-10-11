@@ -27,6 +27,17 @@
     padding: 25px;
 }
 
+#reset {
+    border: 3px solid black;
+    padding: 25px;
+}
+
+#reset-container {
+    display:flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
 #display {
 margin: auto;
 display:flex;
